@@ -9,6 +9,7 @@ Requires:
  - Alternative 1: if not possible, you can fork the repository and make changes via using edit in the web browser
  - Alternative 2: use github codespaces if available on your user account
 
+```
 # 1. Simple - if you have write access to the repository
 
 # clone (your machine)
@@ -49,3 +50,4 @@ git rm
 git branch -a 
 
 A .gitignore file
+```
