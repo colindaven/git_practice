@@ -58,6 +58,8 @@ A .gitignore file
 
 
 
+```
 
-#changes
-Our first git change 
+# Practicing making changes
+Our first git commit 
+```
