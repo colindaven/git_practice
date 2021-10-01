@@ -7,7 +7,7 @@ Requires:
  - user account on on github
  - git software on your local machine 
  - Alternative 1: if not possible, you can fork the repository and make changes via using edit in the web browser
- - Alternative 2: use github codespaces if available on your user account
+ - Alternative 2: use github codespaces if available on your user account (try pressing the full stop key "." on your keyboard while on this webpage)
 
 ```
 # 1. Simple - if you have write access to the repository
