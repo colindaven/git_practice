@@ -4,7 +4,7 @@ Colin Davenport, April 2021
 
 
 Requires:
- - user account on on github
+ - user account on github
  - git software on your local machine 
  - Alternative 1: if not possible, you can fork the repository and make changes via using edit in the web browser
  - Alternative 2: use github codespaces if available on your user account (try pressing the full stop key "." on your keyboard while on this webpage)
@@ -34,11 +34,11 @@ git push
 
 # 2. More complex, but more typical. Fork the repo first to your account, then do as above
 
-# fork the repo to your account
+# fork the repo to your account (via a button at the top right!)
 
-Follow section #1 - now you have write access!
+Follow section #1 - now you have write access to your own forked copy of the repository.
 
-To add to the original repository, you need to create a pull request. Try it!
+To add to the original repository, you need to create a pull request. Try it! The maintainer of the main repository can then accept, discuss, or reject your changes as they see fit.
 
 
 # 3 Demo commands
