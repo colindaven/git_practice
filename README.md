@@ -1,13 +1,13 @@
 # git_practice
 
-Colin Davenport, April 2021
+Colin Davenport, April - October 2021
 
 
 Requires:
  - user account on github
  - git software on your local machine 
  - Alternative 1: if not possible, you can fork the repository and make changes via using edit in the web browser
- - Alternative 2: use github codespaces if available on your user account (try pressing the full stop key "." on your keyboard while on this webpage)
+ - Alternative 2: use github codespaces if available on your user account (try pressing the full stop key "." on your keyboard while on this webpage). You can then probably suggest changes in the form of so-called patches as commits and pull requests to my repository.
 
 ```
 # 1. Simple - if you have write access to the repository
