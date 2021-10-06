@@ -62,4 +62,7 @@ A .gitignore file
 
 # Practicing making changes
 Our first git commit 
+
+First course level commit by CD
+
 ```
